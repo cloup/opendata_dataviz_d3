@@ -1,0 +1,34 @@
+{
+		"name": "flare",
+		 "children": [
+		    {
+		     "name": "graph",
+		     "children": [
+{"name": "AG", "size": 6036},
+{"name": "AI", "size": 143},
+{"name": "AR", "size": 974},
+{"name": "BE", "size": 9470},
+{"name": "BL", "size": 1620},
+{"name": "BS", "size": 3279},
+{"name": "FR", "size": 2527},
+{"name": "GE", "size": 3766},
+{"name": "GL", "size": 270},
+{"name": "GR", "size": 1464},
+{"name": "JU", "size": 602},
+{"name": "LU", "size": 3175},
+{"name": "NE", "size": 1500},
+{"name": "NW", "size": 436},
+{"name": "OW", "size": 227},
+{"name": "SG", "size": 4510},
+{"name": "SH", "size": 697},
+{"name": "SO", "size": 1518},
+{"name": "SZ", "size": 1013},
+{"name": "TG", "size": 1864},
+{"name": "TI", "size": 2897},
+{"name": "UR", "size": 324},
+{"name": "VD", "size": 6988},
+{"name": "VS", "size": 1892},
+{"name": "ZG", "size": 1279},
+{"name": "ZH", "size": 15121}]}
+	]
+	}
