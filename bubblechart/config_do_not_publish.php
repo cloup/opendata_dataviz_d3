@@ -1,9 +1,9 @@
 <?php
 
-$dbHost = 'yourhost.com';
-$dbUser = 'username';
-$dbPass = 'yourpassword';
-$dbName = 'yourdbname';
+$dbHost = 'filemails.com';
+$dbUser = 'hirsch_od';
+$dbPass = 'razaflehaut';
+$dbName = 'hirsch_opendata';
 
 define("LOG_ENABLED", false);
 
